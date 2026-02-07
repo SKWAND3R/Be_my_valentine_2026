@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift Miss Baby! Some flowers 💐 (To Be Given) A big warm hug 🧸 and a Huge kiss 😘 !",
+        message: "Make sure to claim your gifts Miss Baby! Some flowers 💐, a big warm hug 🧸 and a Huge kiss 😘 !",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dl7gknlx5/video/upload/v1770504559/keshi_-_Soft_Spot__Official_Music_Video__128k_zjjrlx.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.4                        // Volume level (0.0 to 1.0)
+        volume: 0.2                        // Volume level (0.0 to 1.0)
     }
 };
 
